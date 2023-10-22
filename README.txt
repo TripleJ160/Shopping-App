@@ -1,26 +1,33 @@
-# README for Remix: My Project #
+# Coffee Cup Shopping App
 
-This is the README file for the Remix: My Project app. It's a great place to write
-down some notes about how your app works. For starters, here is some information
-about the other files in this folder.
+A coffee cup shopping app that allows users to browse, select coffee cups, log in, and add items to a cart for checkout. This is probably my first ever complete app built with the aid of code.org
 
-The files in this folder contain everything you need to run your app:
+![App Screenshot](screenshot.png)
 
-* `applab/applab.js` - This file contains the applab library, which has all the
-  javascript that applab uses to run your app.
+## Table of Contents
 
-* `applab/applab.css` - This file contains some default CSS styling for your app.
+- [Description](#description)
+- [Features](#features)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-* `index.html` - This is the html file that you designed in applab using the
-  Design tab. It contains all the buttons, text inputs, and other controls for
-  your app. Go here to add additional controls to your app.
+## Description
 
-* `style.css` - This file defines the custom styling for each control in your
-  app that you specified under the Design tab. Go here to change the colors,
-  positions, dimensions, and other properties of your app's controls.
+The Coffee Cup Shopping App is a web application that offers a convenient way for coffee enthusiasts to explore a selection of coffee cups, add them to their shopping cart, and complete the purchase. Users can also create accounts and log in to save their cart items and shipping.information.
 
-* `code.js` - This file has all the code you wrote for your app. Go here to add
-  new behavior to your app.
+## Features
 
-* `assets` - This is a directory with all the asset files (pictures and sounds)
-  that you uploaded in applab.
+- User registration and authentication.
+- Browse a catalog of coffee cups.
+- Add items to a shopping cart.
+- Update and remove items from the cart.
+- Calculate the total cost of items in the cart.
+
+
+## Demo
+
+View a live demo of the app at [Coffee Cup Shopping App Demo](https://triplej160.github.io/coffee-cup-shopping-app).
+
