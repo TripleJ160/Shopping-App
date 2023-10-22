@@ -28,4 +28,4 @@ The Coffee Cup Shopping App is a web application that offers a convenient way fo
 
 ## Demo
 
-View a live demo of the app at [Coffee Cup Shopping App Demo](https://triplej160.github.io/coffee-cup-shopping-app).
+View a live demo of the app at [Coffee Cup Shopping App Demo](https://triplej160.github.io/Shopping-App/).
